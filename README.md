@@ -91,4 +91,4 @@ The following tools and libraries were used in this project:
 
 ## Link to Google Colab and Slide
 - [bit.ly/RiceProduction](https://bit.ly/RiceProduction)
-- bit.ly/Transportsales_slide
+- [bit.ly/RiceProduction_slide](https://bit.ly/RiceProduction_slide)
